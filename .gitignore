@@ -1,2 +1,2 @@
-OpenGLStudyDay.*/cmake-build-debug
-OpenGLStudyDay.*/.idea
+OpenGLStudyDay[0-9]*/cmake-build-debug
+OpenGLStudyDay[0-9]*/.idea
